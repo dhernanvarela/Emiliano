@@ -1,2 +1,11 @@
+<<<<<<< HEAD
 #Estos son mis primeros cambios
 #Estos son los segundos cambios
+=======
+Mama, just killed a man
+espacio
+Put a gun against his head
+espacio
+Pulled my trigger, now he's dead
+final
+>>>>>>> e4ceab4f8c5923ab4d51704d05aea2e16938e64a
